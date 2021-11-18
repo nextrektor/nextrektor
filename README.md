@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nextrektor
 - 👀 I’m interested in sleeping
 - 🌱 I’m currently learning how to sleep without sleeping
-- 💞️ I’m looking to collaborate on relationship with God
+- 💞️ I’m looking to collaborate on a relationship with God
 - 📫 How to reach me - there's no way you can reach me
 
 <!---
