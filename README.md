@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @nextrektor
-- 👀 I’m interested in sleeping
-- 🌱 I’m currently learning how to sleep without sleeping
-- 💞️ I’m looking to collaborate on a relationship with God
-- 📫 How to reach me - there's no way you can reach me
-
-<!---
-nextrektor/nextrektor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://nael.monster/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/93458378/236270223-806fb53b-f2c7-4e05-8e16-844e91f1ca52.png" alt="my banner"></a>
+</p>
