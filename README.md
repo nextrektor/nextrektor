@@ -10,7 +10,7 @@ Hi there, I'm <a href="https://nael.monster/" target="_blank" rel="noreferrer">N
 I'm a Ngestuck Web Developer 💻!
 </h2> 
 
-I love the everything.
+I love me.
 
 ## 🔭 I'm currently working on
 
@@ -29,7 +29,7 @@ I love the everything.
 
 ## 🧑🏻‍💻 Discord
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/516579690098589700?theme=dark&bg=23272A&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Tidur%20itu%20sehat%20🫥...)](https://discord.com/users/516579690098589700)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/516579690098589700?theme=dark&bg=23272A&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Tidur%20itu%20sleep%20🫥...)](https://discord.com/users/516579690098589700)
 
 ## ✨ GitHub Stats 
 
