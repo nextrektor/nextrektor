@@ -15,9 +15,7 @@ I love me.
 ## 🔭 I'm currently working on
 
 - My bad habits
-- Mobile + Desktop M-Tix Clone (SwiftUI)
 - Beauty Web (React)
-- iOS game
 - My CSS skill
 
 ## 🌱 I'm currently learning
@@ -25,7 +23,7 @@ I love me.
 - 📱 React Native
 - Firebase
 - Swift
-- Typescript 
+- Flutter 
 
 ## 🧑🏻‍💻 Discord
 
